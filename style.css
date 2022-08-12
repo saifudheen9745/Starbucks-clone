@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: SoDoSans, "Helvetica Neue", Helvetica, Arial, sans-serif
+    ;
+}
+
+.color{
+    background-color: rgb(4, 32, 4);
+}
+
+.width{
+    width: 190px;
+}
+
+.hvr-text-black:hover{
+    cursor: pointer;
+    color: black
+}
+
+.grey-color{
+    color: #0000005e;
+}
+
+.header-btn-hov:hover{
+    background-color: #d4e9e2;
+}
+
+#show-button{
+    display: block;
+}
+
+.btn-measure{
+    width: 60px;
+    height: 24px;
+   
+}
+
+.navlink{
+    margin-bottom: 15px;
+}
+
+
+
+@media (max-width:991px){
+    .logo{
+        margin-bottom: 30px;
+    }
+}
+
+
+
